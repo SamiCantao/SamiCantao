@@ -18,12 +18,12 @@
 
 
 <img alt="Java" height="45" src="https://cdn-icons-png.flaticon.com/512/919/919854.png"></code>
-<img alt="Spring" height ="45" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
-<img height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
-<img height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
-<img height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
-<img height="45" src="src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'"></code>
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+<img alt="Spring" height ="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<img alt="SQL" height ="45" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"></code>
+<img alt="HTML" height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+<img alt="CSS" height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+<img alt="JS" height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<img alt="Git" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img alt="Angular" height="45" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/angular-512.png"></code>
 <img alt="Node JS" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
 <img alt="MongoDB" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"></code>
